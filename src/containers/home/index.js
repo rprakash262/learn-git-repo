@@ -33,6 +33,7 @@ const Home = props => (
         Go to about page via redux
       </button>
     </p>
+    <p>this change was made in second branch</p>
   </div>
 )
 
