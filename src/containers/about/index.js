@@ -6,6 +6,7 @@ const About = () => (
     <p>Did you get here via Redux?</p>
     <p>This is the change made on first branch.</p>
     <p>This change was also made on first branch.</p>
+    <p>This is the change made on second branch.</p>
   </div>
 )
 
